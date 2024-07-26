@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b315f3c0fdf7e745b5bafa7c30e0844, type: 3}
+  m_Name: WeaponItem
+  m_EditorClassIdentifier: 
+  <ItemName>k__BackingField: Iron Sword
+  <ItemType>k__BackingField: 1
+  <ItemDescription>k__BackingField: A solid Iron Sword, likely used by knights from
+    ages ago. This tomb seems to have preserved this relic incredibly well. Can be
+    used to slay monsters.
+  <ItemSprite>k__BackingField: {fileID: 21300000, guid: 0aba4a19ddcc0674b9e2d6f49a7fee31, type: 3}
